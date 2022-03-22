@@ -1,5 +1,5 @@
 ### Yo Gamer Gang 🤠
-It's ya boy Sam, and I'm here to *spice 🌶 things up* with some ***funky beatz 🎧*** <sup><sub><sup>~~and some partially functioning code!~~</sup></sub></sup>
+It's ya boy Sam, and I'm here to *spice 🌶 things up* with some ***funky beatz 🎧*** <sup><sup>~~and some partially functioning code!~~</sup></sup>
 <br/>
 <br/>
 

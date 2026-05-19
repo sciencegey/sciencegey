@@ -7,13 +7,13 @@ It's ya boy Sam, and I'm here to *spice 🌶 things up* with some ***funky beatz
 
 Wow! Would you look at those mediocre stats! 👀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sciencegey&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
 <br/>
 <br/>
 Damn, those languages are pretty fancy, *if I do say so myself* 😏  
 <sub><sup>*(And I do say so myself ;))*</sup></sub>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sciencegey&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](./profile/top-langs.svg)
 
 <br/>
 
